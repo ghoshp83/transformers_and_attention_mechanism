@@ -10,3 +10,6 @@ similarity measures work in real-world tasks like text search and question-answe
 # Sentence_Transformers.ipynb 
   This notebook demonstrates how to use sentence transformers for QnA tasks and measuring similarity 
   using cosine similarity.
+
+# Attention_Mechanisms.ipynb
+  This notebook introduces the query-key-value framework in NNs to demonstrate how attention mechanisms function.
